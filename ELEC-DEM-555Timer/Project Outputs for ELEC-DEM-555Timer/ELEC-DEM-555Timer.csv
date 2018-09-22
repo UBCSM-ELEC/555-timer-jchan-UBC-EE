@@ -1,0 +1,6 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"NE555","","","","NE555","1"
+"Cap","Capacitor","C1, C2","RAD-0.3","Cap","2"
+"LED0","Typical INFRARED GaAs LED","D1","LED-0","LED0","1"
+"Res1","Resistor","R1, R2, R3","AXIAL-0.3","Res1","3"
